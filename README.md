@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 - **Programming Languages:** Python, Go, SQL, JavaScript
 - **Frameworks:** Flask, Django, Tkinter, FastAPI
-- **Database Management:** SQLite
+- **Database Management:** SQLite, PostgreSQL
 - **Tools:** Git, Docker, VS Code
 - **AI/ML:** OpenAI API, Google Cloud AI
 - **Other:** RESTful APIs
@@ -23,6 +23,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 ## 🧩 Projects
 
 Here are some of the projects I've worked on:
+
+### 🔹 [Pokédex CLI](https://github.com/kavancamp/pokedexcli)
+A terminal-based Pokédex written in Go, utilizing PokeAPI and a caching system. 
 
 ### 🔹 [AI Agent](https://github.com/kavancamp/ai-agent)
 An AI agent built using OpenAI and Google Gemini APIs, capable of generating content based on user prompts and managing token usage.
@@ -35,6 +38,7 @@ A flashcard app with a Tkinter GUI that supports creating and saving custom flas
 
 ### 🔹 [Maze Solver](https://github.com/kavancamp/maze-solver)
 A Python program to solve maze problems using algorithms such as DFS and BFS.
+
 
 ## 📈 GitHub Stats
 
