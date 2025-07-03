@@ -24,19 +24,22 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 Here are some of the projects I've worked on:
 
+### 🔹 [Blog Aggregator](https://github.com/kavancamp/blogAggregator)
+*Work in progress 
+
 ### 🔹 [Pokédex CLI](https://github.com/kavancamp/pokedexcli)
 A terminal-based Pokédex written in Go, utilizing PokeAPI and a caching system. 
 
-### 🔹 [AI Agent](https://github.com/kavancamp/ai-agent)
+### 🔹 [AI Agent](https://github.com/kavancamp/ai_agent)
 An AI agent built using OpenAI and Google Gemini APIs, capable of generating content based on user prompts and managing token usage.
 
-### 🔹 [Static Site Generator](https://github.com/kavancamp/static-site-generator)
+### 🔹 [Static Site Generator](https://github.com/kavancamp/static_site_generator)
 A Python-based static site generator that processes Markdown files and converts them into HTML with templating.
 
-### 🔹 [Flashcard App](https://github.com/kavancamp/flashcard-app)
+### 🔹 [Flashcard App](https://github.com/kavancamp/flashcard_study_app)
 A flashcard app with a Tkinter GUI that supports creating and saving custom flashcard sets. It integrates with SQLite for persistent data storage.
 
-### 🔹 [Maze Solver](https://github.com/kavancamp/maze-solver)
+### 🔹 [Maze Solver](https://github.com/kavancamp/maze_solver)
 A Python program to solve maze problems using algorithms such as DFS and BFS.
 
 
