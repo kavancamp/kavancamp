@@ -47,10 +47,11 @@ A Python program to solve maze problems using algorithms such as DFS and BFS.
 
 ![Keenah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavancamp&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-### Learn
-[Boot.dev profile 🐻](https://www.boot.dev/u/kvancamp)
+### BOOTDEV 🐻
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f37278dc-0c21-41ff-8cc0-e14f1b20853b/thumbnail" >
+  <a href="https://www.boot.dev/u/kvancamp">
+    <img src="https://api.boot.dev/v1/users/public/f37278dc-0c21-41ff-8cc0-e14f1b20853b/thumbnail">
+  </a>
 </p>
 
 ## 💬 Let's Connect
