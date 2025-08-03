@@ -1,4 +1,4 @@
-# Hi there, I'm Keenah 👋
+# Hi there, I'm Keenah VanCampenhout👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a focus on backend development, algorithms, and problem-solving. I love learning new programming languages and exploring different approaches to optimize code and improve performance.
 
@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 
 ## 🧩 Projects
 
-Here are some of the projects I've worked on:
+Here are some of the projects I've enjoyed working on:
 
-### 🔹 [Blog Aggregator](https://github.com/kavancamp/blogAggregator)
-*Work in progress 
+### 🔹 [Subtitle Extractor and Translator](https://github.com/kavancamp/subtitle-extractor-translator)
+*Work in progress. A powerful command-line tool to extract, transcribe, and translate subtitles from video files using ffmpeg, OpenAI's Whisper, and deep-translator.
 
 ### 🔹 [Pokédex CLI](https://github.com/kavancamp/pokedexcli)
 A terminal-based Pokédex written in Go, utilizing PokeAPI and a caching system. 
