@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 Here are some of the projects I've enjoyed working on:
 
 ### 🔹 [Subtitle Extractor and Translator](https://github.com/kavancamp/subtitle-extractor-translator)
-*Work in progress. A powerful command-line tool to extract, transcribe, and translate subtitles from video files using ffmpeg, OpenAI's Whisper, and deep-translator.
+A powerful command-line tool to extract, transcribe, and translate subtitles from video files using ffmpeg, OpenAI's Whisper, and deep-translator.
 
 ### 🔹 [Pokédex CLI](https://github.com/kavancamp/pokedexcli)
 A terminal-based Pokédex written in Go, utilizing PokeAPI and a caching system. 
