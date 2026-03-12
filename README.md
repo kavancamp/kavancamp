@@ -45,7 +45,7 @@ A Python program to solve maze problems using algorithms such as DFS and BFS.
 
 ## 📈 GitHub Stats
 
-![Keenah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavancamp&show_icons=true&theme=dracula)
+![Keenah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavancamp&show_icons=true)
 
 ### BOOTDEV 🐻
 <p align="left">
